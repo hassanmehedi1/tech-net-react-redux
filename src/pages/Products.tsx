@@ -24,7 +24,7 @@ export default function Products() {
   //! **
 
   const handleSlider = (value: number[]) => {
-    console.log(value);
+    // console.log(value); 
   };
 
   let productsData;
